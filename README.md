@@ -6,10 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Pallavi-MS-source/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Pallavi-MS-source/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
