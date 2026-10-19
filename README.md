@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Pallavi-MS-source/LeetCode/tree/master/0066-plus-one) |
+| [2235-add-two-integers](https://github.com/Pallavi-MS-source/LeetCode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
